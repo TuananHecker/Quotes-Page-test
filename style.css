@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Anton-Regular';
+    src: url(fonts/Anton-Regular.ttf)
+}
+
+@font-face {
+    font-family: 'QwitcherGrypen-Bold';
+    src: url(fonts/QwitcherGrypen-Bold.ttf)
+}
+
+
+.Quotes {
+    font-family: "QwitcherGrypen-Bold";
+    font-size: 50px;
+    text-align: center;
+    margin: auto;
+}
+
+.Writer {
+    text-align: center;
+    margin: auto;
+    
+}
+
+body {
+    background-color: #F4DF9E;
+  }
